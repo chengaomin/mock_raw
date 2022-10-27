@@ -1,0 +1,25 @@
+{
+	"code": "200",
+	"message": "OK",
+	"data": {
+		"id": 14347585951199232,
+		"referralName": null,
+		"referralDealerCode": "20002177-A",
+		"status": "REJECTED_FOR_LOST",
+		"prospectStatus": "PMP_NO_INTENTION",
+		"pocStatus": "POC_AUDIT_FAILED",
+		"dealerCode": "20002177-A",
+		"telephone": "13816450923",
+		"type": "REPLACEMENT",
+		"carFamily": "lalala",
+		"carFamilyCode": "000099",
+		"purchaseType": "NEW_CAR",
+		"replacementVin": "WP1AA2953GLB06848",
+		"firstName": "白",
+		"lastName": "李",
+		"createdTime": "2022-10-24T15:09:43",
+		"lastModifiedTime": "2022-10-24T07:34:05",
+		"prospectModifiedTime": "2022-10-24T07:23:57",
+		"pocModifiedTime": "2022-10-24T07:28:55"
+	}
+}
